@@ -425,3 +425,7 @@ Zert:
 Soulad:
     path: /soulad
     controller: App\Controller\SouladController::soulad
+
+CreativeCommons:
+    path: /CreativeCommons
+    controller: App\Controller\CreativeCommonsController::CreativeCommons
