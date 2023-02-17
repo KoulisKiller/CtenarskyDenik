@@ -1,0 +1,427 @@
+domov:
+    path: /
+    controller: App\Controller\HomeController::odkaz
+
+RUR:
+    path: /rur
+    controller: App\Controller\RURController::rur
+
+Capek:
+    path: /capek
+    controller: App\Controller\CapekController::capek
+
+Stupne:
+    path: /stupne
+    controller: App\Controller\StupneController::stupne
+
+Bradbury:
+    path: /bradbury
+    controller: App\Controller\BradburyController::bradbury
+
+Audience:
+    path: /audience
+    controller: App\Controller\AudienceController::audience
+
+Kohout:
+    path: /kohout
+    controller: App\Controller\KohoutController::kohout
+
+Leta:
+    path: /leto
+    controller: App\Controller\LetaController::leta
+
+Michal:
+    path: /michal
+    controller: App\Controller\MichalController::michal
+
+Romance:
+    path: /romance
+    controller: App\Controller\RomanceController::romance
+
+Neruda:
+    path: /neruda
+    controller: App\Controller\NerudaController::neruda
+
+Polacek:
+    path: /polacek
+    controller: App\Controller\PolacekController::polacek
+
+Pet:
+    path: /pet
+    controller: App\Controller\PetController::pet
+
+Jaroslav:
+    path: /jaroslav
+    controller: App\Controller\JaroslavController::jaroslav
+
+Basnik:
+    path: /basnik
+    controller: App\Controller\BasnikController::basnik
+
+John:
+    path: /john
+    controller: App\Controller\JohnController::john
+
+Den:
+    path: /den
+    controller: App\Controller\DenController::den
+
+Agatha:
+    path: /agatha
+    controller: App\Controller\AgathaController::agatha
+
+Deset:
+    path: /deset
+    controller: App\Controller\DesetController::deset
+
+Orwell:
+    path: /orwell
+    controller: App\Controller\OrwellController::orwell
+
+Farma:
+    path: /farma
+    controller: App\Controller\FarmaController::farma
+
+Zavet:
+    path: /zavet
+    controller: App\Controller\ZavetController::zavet
+
+Villon:
+    path: /villon
+    controller: App\Controller\VillonController::villon
+
+Shakespeare:
+    path: /shakespeare
+    controller: App\Controller\ShakespeareController::shakespeare
+
+Hamlet:
+    path: /hamlet
+    controller: App\Controller\HamletController::hamlet
+
+Karel:
+    path: /karel
+    controller: App\Controller\KarelController::karel
+
+Havran:
+    path: /havran
+    controller: App\Controller\HavranController::havran
+
+Kafka:
+    path: /kafka
+    controller: App\Controller\KafkaController::kafka
+
+Hlava:
+    path: /hlava
+    controller: App\Controller\HlavaController::hlava
+
+Petr:
+    path: /petr
+    controller: App\Controller\PetrController::petr
+
+Hovno:
+    path: /hovno
+    controller: App\Controller\HovnoController::hovno
+
+Ota:
+    path: /ota
+    controller: App\Controller\OtaController::ota
+
+Ryby:
+    path: /ryby
+    controller: App\Controller\RybyController::ryby
+
+Heller:
+    path: /heller
+    controller: App\Controller\HellerController::heller
+
+Valka:
+    path: /valka
+    controller: App\Controller\ValkaController::valka
+
+Jan:
+    path: /jan
+    controller: App\Controller\JanController::jan
+
+Raj:
+    path: /raj
+    controller: App\Controller\RajController::raj
+
+Umberto:
+    path: /umberto
+    controller: App\Controller\UmbertoController::umberto
+
+Ruze:
+    path: /ruze
+    controller: App\Controller\RuzeController::ruze
+
+Boule:
+    path: /boule
+    controller: App\Controller\BouleController::boule
+
+Krysa:
+    path: /krysa
+    controller: App\Controller\KrysaController::krysa
+
+Dyk:
+    path: /dyk
+    controller: App\Controller\DykController::dyk
+
+Krysar:
+    path: /krysar
+    controller: App\Controller\KrysarController::krysar
+
+Charles:
+    path: /charles
+    controller: App\Controller\CharlesController::charles
+
+Zlo:
+    path: /zlo
+    controller: App\Controller\ZloController::zlo
+
+Kytice:
+    path: /kytice
+    controller: App\Controller\KyticeController::kytice
+
+Moliere:
+    path: /moliere
+    controller: App\Controller\MoliereController::moliere
+
+Lakomec:
+    path: /lakomec
+    controller: App\Controller\LakomecController::lakomec
+
+Maj:
+    path: /maj
+    controller: App\Controller\MajController::maj
+
+De:
+    path: /de
+    controller: App\Controller\DeController::de
+
+Princ:
+    path: /princ
+    controller: App\Controller\PrincController::princ
+
+Jin:
+    path: /jin
+    controller: App\Controller\JinController::jin
+
+Kwai:
+    path: /kwai
+    controller: App\Controller\KwaiController::kwai
+
+Hrubin:
+    path: /hrubin
+    controller: App\Controller\HrubinController::hrubin
+
+Ivan:
+    path: /ivan
+    controller: App\Controller\IvanController::ivan
+
+Maria:
+    path: /maria
+    controller: App\Controller\MariaController::maria
+
+Hrabal:
+    path: /hrabal
+    controller: App\Controller\HrabalController::hrabal
+
+Dickens:
+    path: /dickens
+    controller: App\Controller\DickensController::dickens
+
+Hasek:
+    path: /hasek
+    controller: App\Controller\HasekController::hasek
+
+Fuks:
+    path: /fuks
+    controller: App\Controller\FuksController::fuks
+
+Alois:
+    path: /alois
+    controller: App\Controller\AloisController::alois
+
+Shaw:
+    path: /shaw
+    controller: App\Controller\ShawController::shaw
+
+Gogol:
+    path: /gogol
+    controller: App\Controller\GogolController::gogol
+
+Kundera:
+    path: /kundera
+    controller: App\Controller\KunderaController::kundera
+
+Waller:
+    path: /waller
+    controller: App\Controller\WallerController::waller
+
+Eduard:
+    path: /eduard
+    controller: App\Controller\EduardController::eduard
+
+Ernest:
+    path: /ernest
+    controller: App\Controller\ErnestController::ernest
+
+Bukowski:
+    path: /bukowski
+    controller: App\Controller\BukowskiController::bukowski
+
+Hugo:
+    path: /hugo
+    controller: App\Controller\HugoController::hugo
+
+Scott:
+    path: /scott
+    controller: App\Controller\ScottController::scott
+
+Josef:
+    path: /josef
+    controller: App\Controller\JosefController::josef
+
+Modlitba:
+    path: /modlitba
+    controller: App\Controller\ModlitbaController::modlitba
+
+Klid:
+    path: /klid
+    controller: App\Controller\KlidController::klid
+
+Prukaz:
+    path: /prukaz
+    controller: App\Controller\PrukazController::prukaz
+
+Suhaj:
+    path: /suhaj
+    controller: App\Controller\SuhajController::suhaj
+
+Kral:
+    path: /kral
+    controller: App\Controller\KralController::kral
+
+Twist:
+    path: /twist
+    controller: App\Controller\TwistController::twist
+
+Vlaky:
+    path: /vlaky
+    controller: App\Controller\VlakyController::vlaky
+
+Svejk:
+    path: /svejk
+    controller: App\Controller\SvejkController::svejk
+
+Theodor:
+    path: /theodor
+    controller: App\Controller\TheodorController::theodor
+
+Kun:
+    path: /kun
+    controller: App\Controller\KunController::kun
+
+Postriziny:
+    path: /postriziny
+    controller: App\Controller\PostrizinyController::postriziny
+
+Promena:
+    path: /promena
+    controller: App\Controller\PromenaController::promena
+
+Samota:
+    path: /samota
+    controller: App\Controller\SamotaController::samota
+
+Pygmalion:
+    path: /pygmalion
+    controller: App\Controller\PygmalionController::pygmalion
+
+Revizor:
+    path: /revizor
+    controller: App\Controller\RevizorController::revizor
+
+Balady:
+    path: /balady
+    controller: App\Controller\BaladyController::balady
+
+Romeo:
+    path: /romeo
+    controller: App\Controller\RomeoController::romeo
+
+Rozmar:
+    path: /rozmar
+    controller: App\Controller\RozmarController::rozmar
+
+Smesne:
+    path: /smesne
+    controller: App\Controller\SmesneController::smesne
+
+Srnci:
+    path: /srnci
+    controller: App\Controller\SrnciController::srnci
+
+Volba:
+    path: /volba
+    controller: App\Controller\VolbaController::volba
+
+Spalovac:
+    path: /spalovac
+    controller: App\Controller\SpalovacController::spalovac
+
+Recke:
+    path: /recke
+    controller: App\Controller\ReckeController::recke
+
+Starec:
+    path: /starec
+    controller: App\Controller\StarecController::starec
+
+Jelito:
+    path: /jelito
+    controller: App\Controller\JelitoController::jelito
+
+Elegie:
+    path: /elegie
+    controller: App\Controller\ElegieController::elegie
+
+Ubozaci:
+    path: /ubozaci
+    controller: App\Controller\UbozaciController::ubozaci
+
+Mlok:
+    path: /mlok
+    controller: App\Controller\MlokController::mlok
+
+Getsby:
+    path: /getsby
+    controller: App\Controller\GetsbyController::getsby
+
+Kolo:
+    path: /kolo
+    controller: App\Controller\KoloController::kolo
+
+Vysetrovani:
+    path: /vysetrovani
+    controller: App\Controller\VysetrovaniController::vysetrovani
+
+Zbabelec:
+    path: /zbabelec
+    controller: App\Controller\ZbabelecController::zbabelec
+
+Hmyz:
+    path: /hmyz
+    controller: App\Controller\HmyzController::hmyz
+
+Zena:
+    path: /zena
+    controller: App\Controller\ZenaController::zena
+
+Zert:
+    path: /zert
+    controller: App\Controller\ZertController::zert
+
+Soulad:
+    path: /soulad
+    controller: App\Controller\SouladController::soulad
